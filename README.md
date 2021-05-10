@@ -2,10 +2,10 @@
 
 Ninja Id Card Application
 
-##Download and Install Apk
-<a href="ninja_app.apk" download>Click to Download</a>
+## Download and Install Apk
+<a href="https://raw.githubusercontent.com/DevYam/NinjaIDCard_Flutter/master/ninja_app.apk">Click to Download</a>
 
-##Tutorial
+## Tutorial
 This project is created by following [this](https://www.youtube.com/watch?v=c063ddhWafo) tutorial
 
 ##Screenshots
