@@ -8,7 +8,9 @@ Ninja Id Card Application
 ## Tutorial
 This project is created by following [this](https://www.youtube.com/watch?v=c063ddhWafo) tutorial
 
-##Screenshots
-![Alt text](/screens/s1.jpg "Screen 1")
-![Alt text](/screens/s2.jpg "Screen 2")
-![Alt text](/screens/s3.jpg "Screen 3")
+## Screenshots
+<div align="center">
+    <img src="/screens/s1.jpg" width="400px"</img>
+    <img src="/screens/s2.jpg" width="400px"</img>
+    <img src="/screens/s3.jpg" width="400px"</img>
+</div>
