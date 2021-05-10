@@ -10,6 +10,7 @@ This project is created by following [this](https://www.youtube.com/watch?v=c063
 
 ## Screenshots
 <div align="center">
+    <img src="/screens/s0.jpg" width="400px"</img>
     <img src="/screens/s1.jpg" width="400px"</img>
     <img src="/screens/s2.jpg" width="400px"</img>
     <img src="/screens/s3.jpg" width="400px"</img>
